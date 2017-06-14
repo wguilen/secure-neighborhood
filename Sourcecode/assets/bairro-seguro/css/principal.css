@@ -1,0 +1,23 @@
+body
+{
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 70px;
+}
+
+.page-title
+{
+    display: block;
+    text-align: center;
+    padding: 5px;
+    border-bottom: 1px dashed #CCC;
+}
+
+.content
+{
+    padding: 15px;
+}
+
+.actions-column
+{
+    min-width: 150px;
+}
